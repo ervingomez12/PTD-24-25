@@ -1,0 +1,23 @@
+.tabla1{
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 255, 255);
+    width: 1500px;
+}
+.col1{
+    text-align: center;
+}
+.col2{
+    text-align: left;
+}
+.col3{
+    text-align: left;
+}
+.col4{
+    text-align: left;
+}
+.col5{
+    text-align: left;
+}
+.titulos{
+    background-color: rgb(17, 58, 42);
+}
